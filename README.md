@@ -77,5 +77,15 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Shijavuddin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Shijavuddin&layout=compact&theme=tokyonight)
+
+---
+
 ⭐ Thank you for visiting my GitHub profile  
 ⭐ I am eager to learn, grow, and contribute
