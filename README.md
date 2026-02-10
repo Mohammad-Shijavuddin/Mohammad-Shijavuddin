@@ -17,7 +17,7 @@
 - **Programming:** Python (Core), JavaScript (Basics) , SAP-MM (Basic)
 - **Web:** HTML, CSS , React.JS
 - **Database:** SQL
-- **Testing:** Manual Testing ,Automation Testing , QA (Quality  Assurance)
+- **Testing:** Manual Testing , QA (Quality  Assurance)
 - **Tools:** Git, GitHub, VS Code, Python.3
 
 ---
