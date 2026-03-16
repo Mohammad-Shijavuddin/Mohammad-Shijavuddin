@@ -17,8 +17,9 @@
 - **Programming:** Python (basic Core),SAP-MM (Basic)
 - **Web:** HTML, CSS ,JavaScript (Basics)
 - **Database:** SQL
+- **AI & Prompt Engineering:**Prompt Writing, Prompt Optimization, AI Response Testing, ChatGPT Usage
 - **Testing:** Manual Testing , QA (Quality  Assurance)
-- **Tools:** Git, GitHub, VS Code, Python.3
+- **Tools:** Git, GitHub, VS Code, Python.3,AI Tools
 
 ---
 
